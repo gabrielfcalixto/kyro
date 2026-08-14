@@ -1,0 +1,6 @@
+{
+  "name": "Jarvis",
+  "description": "App Desktop de organização e produtividade no estilo Microsoft To Do com transcrição por IA e modo widget.",
+  "requestFramePermissions": ["microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
